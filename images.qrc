@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/GlobalArrow.png</file>
+    <file>images/titlebar_close_red.png</file>
+    <file>images/titlebar_close_white.png</file>
+    <file>images/A_NoColor.png</file>
+    <file>images/D_NoColor.png</file>
+    <file>images/DownArrow_NoColor.png</file>
+    <file>images/LeftArrow_NoColor.png</file>
+    <file>images/RightArrow_NoColor.png</file>
+    <file>images/S_NoColor.png</file>
+    <file>images/UpArrow_NoColor.png</file>
+    <file>images/W_NoColor.png</file>
+    <file>images/icon.ico</file>
+  </qresource>
+</RCC>
